@@ -1,0 +1,103 @@
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\bd_farmacia.mdf
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\bd_farmacia_log.ldf
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmPrincipal.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\ResolveAssemblyReference.cache
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmPrincipal.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmSplash.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\bd_farmacia.mdf
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\bd_farmacia_log.ldf
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmEmpresa.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+E:\Farmacia\Farmacia\bin\Debug\bd_farmacia.mdf
+E:\Farmacia\Farmacia\bin\Debug\bd_farmacia_log.ldf
+E:\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+E:\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+E:\Farmacia\Farmacia\obj\Debug\ResolveAssemblyReference.cache
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.frmEmpresa.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.frmPrincipal.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.frmSplash.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+E:\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmFornecedor.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmMedicamento.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmGrupo.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmUsuario.resources
+D:\Herbert\Meus documentos\Visual Studio 2008\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.frmMovimento.resources
+J:\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+J:\Farmacia\Farmacia\bin\Debug\bd_farmacia.mdf
+J:\Farmacia\Farmacia\bin\Debug\bd_farmacia_log.ldf
+J:\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+J:\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+J:\Farmacia\Farmacia\obj\Debug\ResolveAssemblyReference.cache
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmEmpresa.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmFornecedor.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmGrupo.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmMedicamento.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmMovimento.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmPrincipal.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmSplash.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.frmUsuario.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+J:\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+I:\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+I:\Farmacia\Farmacia\bin\Debug\bd_farmacia.mdf
+I:\Farmacia\Farmacia\bin\Debug\bd_farmacia_log.ldf
+I:\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+I:\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+I:\Farmacia\Farmacia\obj\Debug\ResolveAssemblyReference.cache
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmEmpresa.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmFornecedor.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmGrupo.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmMedicamento.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmMovimento.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmPrincipal.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmSplash.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.frmUsuario.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+I:\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\bin\Debug\bd_farmacia.mdf
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\bin\Debug\bd_farmacia_log.ldf
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\ResolveAssemblyReference.cache
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmEmpresa.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmFornecedor.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmGrupo.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmMedicamento.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmMovimento.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmPrincipal.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmSplash.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.frmUsuario.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\GenerateResource.read.1.tlog
+D:\users\herbert\Documents\Projects C#\Farmacia\Farmacia\obj\Debug\GenerateResource.write.1.tlog
+D:\Estudos\C#\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+D:\Estudos\C#\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
